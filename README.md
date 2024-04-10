@@ -11,6 +11,7 @@ Este script Python utiliza OpenCV para capturar vídeo, processar frames e desen
 -----------------------------Atividade Aula 04-----------------------------
 - 1
 Este script Python utiliza OpenCV para ler uma imagem, redimensioná-la para um terço do tamanho original e exibir ambas as imagens. A imagem redimensionada mantém a cor e a intensidade dos pixels originais.
+
 -2
 Este script Python utiliza OpenCV para ler uma imagem, reduzir seu tamanho para um terço do original, e substituir cada pixel pela média dos pixels vizinhos na imagem original. As imagens original e redimensionada são exibidas.
 -3
