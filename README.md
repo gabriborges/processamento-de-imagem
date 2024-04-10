@@ -14,6 +14,7 @@ Este script Python utiliza OpenCV para ler uma imagem, redimensioná-la para um 
 
 -2
 Este script Python utiliza OpenCV para ler uma imagem, reduzir seu tamanho para um terço do original, e substituir cada pixel pela média dos pixels vizinhos na imagem original. As imagens original e redimensionada são exibidas.
+
 -3
 Este script Python utiliza OpenCV para ler uma imagem e aplicar ruído aleatório. A quantidade de ruído pode ser ajustada em tempo real através da interação do usuário, e a imagem resultante é exibida continuamente.
 
@@ -25,6 +26,7 @@ Este script Python utiliza OpenCV e numpy para manipular uma imagem, permitindo 
   
 -1
 Este script Python utiliza OpenCV para carregar uma imagem e permitir ao usuário rotacioná-la em tempo real. A rotação é realizada em torno de um ponto que pode ser definido com um clique do mouse na imagem.
+
 -2
 Este script Python utiliza OpenCV e numpy para carregar uma imagem e rotacioná-la em um ângulo especificado. A rotação é realizada em torno do centro da imagem, e a imagem rotacionada é exibida.
 
@@ -32,6 +34,7 @@ Este script Python utiliza OpenCV e numpy para carregar uma imagem e rotacioná-
   
 -1
 Este script Python utiliza OpenCV para carregar uma imagem e um logo, redimensiona o logo para o tamanho da imagem, cria uma máscara do logo e a adiciona à imagem original. A imagem resultante é exibida.
+
 -2
 Este script Python utiliza OpenCV para carregar um vídeo e uma imagem. A imagem é redimensionada para o tamanho do quadro do vídeo, convertida para escala de cinza e adicionada ao vídeo. O vídeo resultante é salvo em um novo arquivo.
 
